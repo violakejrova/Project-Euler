@@ -10,7 +10,7 @@ Moje řešení úloh z [Project Euler](https://projecteuler.net/) v Pythonu.
 | 001 | Multiples of 3 or 5 | [problem_001.py](problem001.py) | |https://projecteuler.net/problem=1|
 | 002 | Even Fibonacci Numbers | [problem_002.ipynb](problem002.ipynb) | -  |https://projecteuler.net/problem=2|
 | ... | ... |  | |
-|012|Highly Divisible Triangular Number|---|---|https://projecteuler.net/problem=12|
+|012|Highly Divisible Triangular Number|[problem 12](problem012.ipynb)|---|https://projecteuler.net/problem=12|
 |---|---|---|---|---|
 |---|---|---|---|---|
 
